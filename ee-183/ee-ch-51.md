@@ -30,7 +30,7 @@ Derive these:
 - Electrons return to normal state from excited state in several jumps, thereby emitting radiations of different frequencies
 
 # Energy Level for H atom
-- E(n) = -13.6/n^2 eV
+- $E_n = \frac{-13.6}{n^2} eV$
 ## ELD (Energy Level Diagram)
 |----------- n=4\
 |----------- n=3\
