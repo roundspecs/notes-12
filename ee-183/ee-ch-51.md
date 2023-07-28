@@ -6,21 +6,21 @@
 
 # Bohr Model
 ## Postulates:
-    1. massive positively charged nucleus
-    2. centrifugal force = electrostatic force
-    3. permitted energy levels: mvr=nh/2pi
-    4. radiate energy in orbital jumps: delE=hf
+1. massive positively charged nucleus
+2. centrifugal force = electrostatic force
+3. permitted energy levels: mvr=nh/2pi
+4. radiate energy in orbital jumps: delE=hf
 ## Calculations
 All formulae derive from these two:
-    1. (mv^2)/r = (Ze^2)/(4pi x epsilon x r^2)
-    2. mvr=nh/2pi
+1. (mv^2)/r = (Ze^2)/(4pi x epsilon x r^2)
+2. mvr=nh/2pi
 Derive these:
-    - r
-    - v
-    - f = v/(2pi*r)
-    - K.E = 1/2 * mv^2
-    - P.E = Vx(-e), V = Ze^2 / (4pi x epsilon x r)
-    - T.E = P.E + K.E
+- r
+- v
+- f = v/(2pi*r)
+- K.E = 1/2 * mv^2
+- P.E = Vx(-e), V = Ze^2 / (4pi x epsilon x r)
+- T.E = P.E + K.E
 
 # Normal, Excited, Ionized Atom
 **Normal:** When the electrons are in their respective orbits (At room temperature)
@@ -32,11 +32,11 @@ Derive these:
 # Energy Level for H atom
 - E(n) = -13.6/n^2 eV
 ## ELD (Energy Level Diagram)
-|----------- n=4
-|----------- n=3
+|----------- n=4\
+|----------- n=3\
 |
-|----------- n=2
+|----------- n=2\
 |
 |
-|----------- n=1
+|----------- n=1\
 
