@@ -52,3 +52,15 @@ Derive these:
 # Electron Configuration of Atom
 - Each shell can hold maximum $2n^2$ electrons
 - Each subshell can hold maximum $2(2l+1)$ electrons
+
+# Magnetic Quantum Number
+- $m\space\epsilon\space\{-l\space... \space0\space... \space l\}$
+- $m$ determines number of orbitals/sub-subshells
+- Number of orbitals = $2l+1$
+- Each orbital can hold maximum $2$ electrons
+
+# Spin Quantum Number
+- $s\space\epsilon\space \{\frac{1}{2},-\frac{1}{2}\}$
+
+# Pauli's Exclusion Principle
+- no two electrons can have the same set of values for its four quantum number $n$, $l$, $m$ and $s$
