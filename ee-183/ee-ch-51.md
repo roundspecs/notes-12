@@ -5,7 +5,7 @@
 - Diameter of nucleus = $10^{-15}$ m
 
 # Bohr Model
-## Postulates:
+## Postulates
 1. massive positively charged nucleus
 2. centrifugal force = electrostatic force
 3. permitted energy levels: $mvr=\frac{nh}{2\pi}$
