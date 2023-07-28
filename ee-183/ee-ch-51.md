@@ -6,10 +6,10 @@
 
 # Bohr Model
 ## Postulates
-1. massive positively charged nucleus
-2. centrifugal force = electrostatic force
-3. permitted energy levels: $mvr=\frac{nh}{2\pi}$
-4. radiate energy in orbital jumps: $\Delta E=hf$
+1. Massive positively charged nucleus
+2. Centrifugal force = electrostatic force
+3. Permitted energy levels: $mvr=\frac{nh}{2\pi}$
+4. Radiate energy in orbital jumps: $\Delta E=hf$
 ## Calculations
 All formulae derive from these two:
 1. $\frac{mv^2}{r} = \frac{Ze^2}{4\pi \epsilon_0  r^2}$
@@ -24,9 +24,11 @@ Derive these:
 - $E_t=E_p+E_k$
 
 # Normal, Excited, Ionized Atom
-**Normal:** When the electrons are in their respective orbits (At room temperature)\
-**Excited:** When the electron(s) are in higher orbits, but not completely removed (spark/heat)\
-**Ionized:** When the electron(s) are in higher orbits completely removed (spark/heat)
+1. **Normal:** When the electrons are in their respective orbits (At room temperature)
+1. **Excited:** When the electron(s) are in higher orbits, but not completely removed (spark/heat)
+1. **Ionized:** When the electron(s) are in higher orbits completely removed (spark/heat)
+
+
 - Electrons does not reamin excited for longer that $10^{-8}$ s
 - Electrons return to normal state from excited state in several jumps, thereby emitting radiations of different frequencies
 
@@ -63,4 +65,4 @@ Derive these:
 - $s\space\epsilon\space \{\frac{1}{2},-\frac{1}{2}\}$
 
 # Pauli's Exclusion Principle
-- no two electrons can have the same set of values for its four quantum number $n$, $l$, $m$ and $s$
+- No two electrons can have the same set of values for its four quantum number $n$, $l$, $m$ and $s$
