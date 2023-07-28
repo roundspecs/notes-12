@@ -41,5 +41,12 @@ Derive these:
 |\
 |----------- n=1
 
+# Orbital/Azimuthal Quantumn Number
+- orbit = shell
+- Each orbit/shell has suborbit/subshells.
+- Orbital/Azimuthal Quantumn Number: $0\leq l\leq n-1$
+- Number of subshells of shell - $n$ is $n$.
 
-
+# Electron Configuration of Atom
+- Each shell can hold maximum $2n^2$ electrons
+- Each subshell can hold maximum $2(2l+1)$ electrons
