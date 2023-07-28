@@ -43,10 +43,10 @@ Derive these:
 └─────────── n=1
 ```
 
-# Orbital/Azimuthal Quantumn Number
+# Orbital/Azimuthal Quantum Number
 - orbit = shell
 - Each orbit/shell has suborbit/subshells.
-- Orbital/Azimuthal Quantumn Number: $0\leq l\leq n-1$
+- Orbital/Azimuthal Quantum Number: $0\leq l\leq n-1$
 - Number of subshells of shell - $n$ is $n$.
 
 # Electron Configuration of Atom
