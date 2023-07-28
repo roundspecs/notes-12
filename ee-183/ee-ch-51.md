@@ -66,3 +66,35 @@ Derive these:
 
 # Pauli's Exclusion Principle
 - No two electrons can have the same set of values for its four quantum number $n$, $l$, $m$ and $s$
+
+# Energy Band in Solids
+![Alt text](<energy band in solids.png>)
+- [Khanacademy - Semiconductors](https://www.youtube.com/playlist?list=PL2ub1_oKCn7ogaMtdB2RumlIYqNeXf_oX)
+- When atoms are far apart they don't form bands
+- When atoms are very close, the electrons of different atoms fill up the same energy level, which violates Pauli's Exclusion Principle. So, the energy levels split into bands
+- Energy level splits into N bands, if there are N atoms in the crystal
+- At first outer shells are splitted. Then as the atoms get closer, inner shells are also splitted.
+
+# Spacing Between Energy Levels of a Band
+- If there are $N$ atoms in a cristal, and width of energy band is $x\space eV$, spacing between energy levels of the same band = $\frac{x}{N}eV$
+
+# Energy Bands in Lithium and their Occupancy
+![Alt text](<Energy band in Li atom.png>)
+**(a) Isolated Li atom:**
+- First shell:\
+  Capacity: 2 electrons\
+  Filled: 2  electrons(Completely filled)
+- Second shell:\
+  Capacity: 2 electrons\
+  Filled: 1 electrons (Not completely filled)
+
+**(b) Li atom in crystal:**\
+Lets say there are 100 atoms in a Li Crystal.
+- First band:\
+  Number of energy levels: 100\
+  Capacity: 200 electrons
+  Filled: 200 electrons (Completely filled)
+- Second band:\
+  Number of energy levels: 100\
+  Capacity: 200 electrons
+  Filled: 100 electrons (Not completely filled)
