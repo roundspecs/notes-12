@@ -1,3 +1,7 @@
+# Calculator
+- Boltzmann's Constant, $k$: `Physico-Chem 4`
+- Charge of electron, $e$: `Electromagnetic 3`
+
 # Basics
 - Mass of electron = $9.11\times 10^{-31}$ kg
 - Change of electron = $1.6\times 10^{-19}$ C
@@ -98,3 +102,74 @@ Lets say there are 100 atoms in a Li Crystal.
   Number of energy levels: 100\
   Capacity: 200 electrons
   Filled: 100 electrons (Not completely filled)
+
+# Valence and Conduction Band
+**Valence Band:**\
+The band of energy occupied by the valence electrons is called the valence band.
+- It may be completely filled or partially filled with electrons but never empty.
+- Holes are in valence band
+- Holes are filled by electrons in valence band which move from adjacent atoms without passing through the forbidden energy gap.
+
+**Conduction Band:**\
+The next higher permitted energy band is called the conduction band
+- May either be empty or partially filled with electrons
+- In conduction band, electrons can move freely and hence are known as conduction electrons.
+- An electron in the conduction band can jump to an adjacent
+conduction band more readily than it can jump back to the valence band from where it had come
+earlier.
+  
+**Forbidden Gap:**\
+The gap between these two bands is known as the forbidden energy gap.
+
+- If a valence electron happens to absorb enough energy, it jumps across the forbidden energy gap and
+enters the conduction band
+- Important distinction between electron flow and hole flow: Electrons flow in conduction band, holes flow in valence band
+- Although holes flow with ease, they experience more opposition than electron flow in the conduction band
+
+**Key points:**
+1. conduction electrons are found in and freely flow in the conduction band
+2. holes exist in and flow in the valence band
+3. conduction electrons move almost twice as fast as the holes
+
+# Insulators, Conductors and Semiconductors
+![Insulators, Conductors and Semiconductors](<Insulators, Conductors and Semiconductors.png>)
+## Insulators
+- Have a full valence band
+- Have an empty conduction band
+- Have a large energy gap (of several eV) between them
+- At ordinary temperatures, the probability of electrons of valence band to cross the forbidden gap and become available in conduction band, by gaining energy is slight
+- Increase in temperature enables some
+electrons to go to the conduction band which fact accounts for
+the negative resistance-temperature coefficient of insulators.
+## Conductors
+- Have overlapping valence and conduction bands
+- A point worth noting is that in the absence of forbidden energy gap in good conductors, there is no structure to establish holes. The total current in such conductors is simply a flow of electrons
+## Semi-conductor
+- Have almost an empty conduction band (empty at $0K$)
+- Have almost filled valence band
+- Very narrow energy gap
+- Conductivity of semiconductors increases with temperature
+- Moreover, such departing electrons leave behind positive holes in the valence band. Hence, semiconductor current is the sum of electron and hole currents flowing in opposite directions.
+
+# Atomic Binding in Semiconductors
+- Both Si, Ge are tetravalent
+- Each atom is surrounded by 4 atoms forming a tetrahedral crystal
+
+# Types of Semiconductors
+![Types of Semiconductors](<Types of Semiconductor.png>)
+
+# Intrinsic Semiconductors
+|Semiconductor|Energy gap ($E_g$)|
+|-------------|------------------|
+|Si           |$1.1eV$           |
+|Ge           |$0.7eV$           |
+- An intrinsic semiconductor is one which is made of the semiconductor material in its extremely pure form.
+- In pure semiconductors kept in the dark, thermally-generated charge carriers are the only means of conduction.
+- $n_i = N e^{\frac{−E_g}{2kT}}$
+  - $n_i$ = intrinsic carrier density
+  - $N$ = constant for a given semiconductor
+  - $E_g$ = band gap energy (in Joules)
+  - $k$ = Boltzmann’s constant
+  - $T$ = Temperature (in K)
+> **Question:** Find the intrinsic carrier concentration in silicon at $300K$ for which $N = 3\times10^{25}\space m^{-3}$, $E_g = 1.1 eV$, $µ_e = 0.14 m /V-s$ and $µ_h = 0.05 m /V–s$. Also, find the conductivity of silicon.\
+> $n_i = N e^{\frac{−E_g}{2kT}}$
