@@ -73,7 +73,7 @@ Example: Polyethylene adipate
 **Linear:** Each repeating unit is linked with two repeating units on each side\
 **Branch:** Mostly linear, with occasional branches\
 **Cross-linked:** Branches react and form criss-crossed
-![Alt text](<schematic representation of graphical structure.png>)
+![schematic representation of graphical structure](<schematic representation of graphical structure.png>)
 
 ## Others
 **Plastic:** Can be shaped into hard utility material\
@@ -94,6 +94,26 @@ Example: Nylon
 | soften on heating | does not soften on heating | 
 | can be remolded | can't be |
 | Polythene, PVC, Nylon | Bakelite |
+
+# Glass Transition Temperature
+    ↑[Viscofluid state.Polymer starts 
+    ↑to melt and flow]. Flow temperature(T_f)
+    .
+    .
+    .
+    ↑
+    ┃
+    ┃Rubbery or viscoelastic state.(Soft, flexible and rubbery)
+    ┃
+    ┃Glass Transition Temperature(T_g)
+    ┃
+    ┃Glassy state(Hard, brittle and glassy)
+    ┃
+## Factors affecting Glass Transition Temperature
+**Molecular Weight:**
+T_g α Number of chain end segments α segmental motion
+T_g α Molecular Weight
+![Alt text](image.png)
 
 # Tacticity
 ![Alt text](tacticity.png)
