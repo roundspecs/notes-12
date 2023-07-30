@@ -73,7 +73,7 @@ Example: Polyethylene adipate
 **Linear:** Each repeating unit is linked with two repeating units on each side\
 **Branch:** Mostly linear, with occasional branches\
 **Cross-linked:** Branches react and form criss-crossed
-![Alt text](<schematic representation of graphical structure.png>)
+![schematic representation of graphical structure](<schematic representation of graphical structure.png>)
 
 ## Others
 **Plastic:** Can be shaped into hard utility material\
