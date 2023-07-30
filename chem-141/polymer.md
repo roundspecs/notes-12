@@ -96,19 +96,21 @@ Example: Nylon
 | Polythene, PVC, Nylon | Bakelite |
 
 # Glass Transition Temperature
-    ↑[Viscofluid state. Polymer starts 
-    ↑ to melt and flow]. Flow temperature(T_f)
-    .
-    .
-    .
-    ↑
-    ┃
-    ┃Viscoelastic state (Soft, flexible and rubbery)
-    ┃
-    ┃Glass Transition Temperature(T_g)
-    ┃
-    ┃Glassy state (Hard, brittle and glassy)
-    ┃
+```
+↑ Viscofluid state. (Polymer starts to melt and flow) 
+.
+. Flow temperature(T_f)
+.
+.
+↑
+┃
+┃ Viscoelastic state (Soft, flexible and rubbery)
+┃
+┃ Glass Transition Temperature(T_g)
+┃
+┃ Glassy state (Hard, brittle and glassy)
+┃
+```
 
 ## Factors affecting Glass Transition Temperature
 1. **Molecular Weight:**\
