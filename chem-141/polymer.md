@@ -82,3 +82,17 @@ Example: PVC\
 Example: Natural, synthetic and silicone rubber\
 **Fibre:** Can be fabricated into a filment like material with length equal to 100 times its diameter\
 Example: Nylon
+## Glass Transition Temperature
+    ↑[Viscofluid state.Polymer starts 
+    ↑to melt and flow]. Flow temperature(T_f)
+    .
+    .
+    .
+    ↑
+    ┃
+    ┃Rubbery or viscoelastic state.(Soft, flexible and rubbery)
+    ┃
+    ┃Glass Transition Temperature(T_g)
+    ┃
+    ┃Glassy state(Hard, brittle and glassy)
+    ┃
