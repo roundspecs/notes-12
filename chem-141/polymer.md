@@ -1,9 +1,10 @@
 # Macromolecules
-- **Definition:** A molecule containing a very large number of atoms
+- **Definition:** A molecule containing < 100 monomers
 
 # Polymer
 - **Greek:** many parts
 - **Definition:** A high molecular weight compound formed by the combination of a large number of one or more types of molecules of  low molecular weight. 
+- > 100 monomers
 - **Examples:** starch, rubber, protein, resins. Polyethylene, PVC
 
 # Monomer
@@ -41,7 +42,7 @@
 
 # Degree of polymerization
 - Number of repeating units in the polymer molecule. 
-- Calculated as the ratio of molecular weight of a polymer and molecular weight of a repeating unit.
+- Degree = molecular weight of a polymer / molecular weight of a repeating unit.
   
 # Classification of Polymer
 ## Origin
@@ -71,12 +72,13 @@ Example: Polyethylene adipate
 ## Graphical structure
 **Linear:** Each repeating unit is linked with two repeating units on each side\
 **Branch:** Mostly linear, with occasional branches\
-**Cross-linked:** Branches react and form criss-crossed 
+**Cross-linked:** Branches react and form criss-crossed
+![Alt text](<schematic representation of graphical structure.png>)
 
 ## Others
 **Plastic:** Can be shaped into hard utility material\
 Example: PVC\
 **Elastomers:** Exhibits elongation on vulcanization\
 Example: Natural, synthetic and silicone rubber\
-**Fibre:** Can be fabricated into a fibre with lenght equal to 100 times its diameter\
+**Fibre:** Can be fabricated into a filment like material with length equal to 100 times its diameter\
 Example: Nylon
