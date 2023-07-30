@@ -82,3 +82,28 @@ Example: PVC\
 Example: Natural, synthetic and silicone rubber\
 **Fibre:** Can be fabricated into a filment like material with length equal to 100 times its diameter\
 Example: Nylon
+
+# Thermoplastic vs Thermosetting
+| Thermoplastic | Thermosetting |
+|---------------|---------------|
+| **linear/slightly branched** | **cross-linked/heavily branched** |
+| **low molecular weight** | **high** |
+| **strong, hard and brittle** | **opposite** |
+| **soluble in organic solvents** | **not soluble in organic solvents** |
+| **addition polymerization** | **condensation polymerization** |
+| soften on heating | does not soften on heating | 
+| can be remolded | can't be |
+| Polythene, PVC, Nylon | Bakelite |
+
+# Tacticity
+![Alt text](tacticity.png)
+- Pedant group = branch of backbone chain
+- Tacticity is the type of spatial orientation of pedant groups along the backbone chain
+- Physical and chemical properties depend on tacticity
+## Types
+1. **Isotactic:** All on same side\
+   Example: Polypropylene
+2. **Syndiotactic:** Arranged in regular, alternating pattern\
+   Example: Gutta-percha
+3. **Atactic:** Random\
+   Example: Polystyrene
