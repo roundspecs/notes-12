@@ -34,7 +34,7 @@
 | Polymer's molecular weight is a multiple of  monomer’s molecular weight | Polymer's molecular weight is not a multiple of the monomer’s molecular weight |
 | Lewis acids, Lewis bases, and radical initiators are used as catalysts. | Different molecules are used as catalysts |
 | Examples: Polyethylene, Teflon, and PVC | Examples: Bakelite, Nylon and Silicon |
-| ![Alt text](<Addition polymerization.png>) | ![Alt text](<Condensation polymerization.png>) |
+| ![Example reaction](<Addition polymerization.png>) | ![Example reaction](<Condensation polymerization.png>) |
 
 
 
