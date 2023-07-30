@@ -96,3 +96,8 @@ Example: Nylon
     ┃
     ┃Glassy state(Hard, brittle and glassy)
     ┃
+## Factors affecting Glass Transition Temperature
+**Molecular Weight:**
+T_g α Number of chain end segments α segmental motion
+T_g α Molecular Weight
+![Alt text](image.png)
