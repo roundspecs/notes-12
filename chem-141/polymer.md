@@ -17,17 +17,10 @@
 
 # Polymerization Reaction
 - **Definition:** The process of combining a large number of small molecules to form a single macromolecule is known as polymerisation.
-- **2 Types:** Addition and Condensation. 
-
-## Addition Plymerization
-- **Definition:** Repeated addition of monomers that possess double or triple bonds to form polymers.
-
-## Condensation Plymerization
-- **Definition:** Repeated condensation reactions between two different bi-functional or tri-functional monomers.
-
-# Difference between Addition and Condensation reaction
+## Types
 | Addition Polymerisation | Condensation Polymerisation |
 |-------------------------|---------|
+| **Definition:** Repeated addition of monomers that possess double or triple bonds to form polymers | **Definition:** Repeated condensation reactions between two different  bi-functional or tri-functional monomers |
 | Monomers have a double or triple bond. | Bi-functional or tri-functional monomer |
 | No by-products | By-products like $NH_3$, $H_2O$ & $HCl$ |
 | Results in the addition of monomers | Monomers are condensed |
@@ -53,21 +46,37 @@
 # Classification of Polymer
 ## Origin
 **Natural:** Extacted from nature\
-**Synthetic:** Syntesized from monomers
+Example: Cotton, Silk, Wool, Rubber\
+**Synthetic:** Syntesized from monomers\
+Example: Polyethylene, PVC, Nylon
 
 ## Carbon chain
 **Organic:** Backbone essentially made of C\
-**Iorganic:** No C in backbone
+Example: Almost everything\
+**Iorganic:** No C in backbone\
+Example: Glass, Silicone rubber
 
 ## Heating effect
 **Thermoplastic:** Can be melted and molded\
-**Thermosetting:** Can't be
+Example: Polythene, PVC, Nylon\
+**Thermosetting:** Can't be\
+Example: Bakelite
 
 ## Backbone
 **Homogeneous:** All same atoms in backbone\
-**Heterogeneous:** Different atoms in backbone
+Example: Polyethylene\
+**Heterogeneous:** Different atoms in backbone\
+Example: Polyethylene adipate
 
 ## Graphical structure
-**Linear:** Each repeating unit is linked with two repeating units on each side
-**Branch:** Mostly linear, with occasional branches
+**Linear:** Each repeating unit is linked with two repeating units on each side\
+**Branch:** Mostly linear, with occasional branches\
 **Cross-linked:** Branches react and form criss-crossed 
+
+## Others
+**Plastic:** Can be shaped into hard utility material\
+Example: PVC\
+**Elastomers:** Exhibits elongation on vulcanization\
+Example: Natural, synthetic and silicone rubber\
+**Fibre:** Can be fabricated into a fibre with lenght equal to 100 times its diameter\
+Example: Nylon
