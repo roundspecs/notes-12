@@ -4,7 +4,7 @@
 # Polymer
 - **Greek:** many parts
 - **Definition:** A high molecular weight compound formed by the combination of a large number of one or more types of molecules of  low molecular weight. 
-- > 100 monomers
+- $>$ 100 monomers
 - **Examples:** starch, rubber, protein, resins. Polyethylene, PVC
 
 # Monomer
