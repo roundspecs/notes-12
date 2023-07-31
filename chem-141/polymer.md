@@ -173,7 +173,7 @@ Example: Nylon
   ```
 - Block:
   ```
-  AAAABBBAAAABBB
+  AAAABBBAAABBB
   ```
 - Graft:
   ```
