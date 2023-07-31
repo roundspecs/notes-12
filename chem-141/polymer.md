@@ -188,5 +188,5 @@ Example: Nylon
 
   # Plasticizers
   - low molecular weight
-  - increases flexibility of plastic
-  - penetrate into polymer matrix $\rightarrow$ increase segmental motion $\rightarrow$ reduce $T_g$
+  - flexibility $\uparrow$ plasticity $\uparrow$
+  - penetrate into polymer matrix $\rightarrow$ spacing between chains $\uparrow$ segmental motion $\uparrow$ $T_g\downarrow$
