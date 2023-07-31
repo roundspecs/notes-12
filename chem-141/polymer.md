@@ -157,3 +157,36 @@ Example: Nylon
 - Inhibitors are added to monomer to inhibit auto-polymerization
 - These are capable of inhibiting the chain  growth by combining with the active free-radicals and forming either stable products or inactive free radicals.
 - Examples: Hydroquinone, Nitrobenzene, Dinitrobenzene, Benzothiazine etc
+
+# Copolymer
+- Copolymer = Polymer with 2/+ different monomers
+- Can be formed through all types of polymerization
+  
+## Types
+- Randomg:
+  ```
+  ABBBAABA
+  ```
+- Alternating:
+  ```
+  ABABABAB
+  ```
+- Block:
+  ```
+  AAAABBBAAAABBB
+  ```
+- Graft:
+  ```
+        B
+        B
+        B
+  AAAAAAAAAAA
+     B
+     B
+     B
+  ```
+
+  # Plasticizers
+  - low molecular weight
+  - increases flexibility of plastic
+  - penetrate into polymer matrix $\rightarrow$ increase segmental motion $\rightarrow$ reduce $T_g$
