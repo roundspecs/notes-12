@@ -127,3 +127,51 @@ T_g α Molecular Weight
    Example: Gutta-percha
 3. **Atactic:** Random\
    Example: Polystyrene
+
+# Polymerization
+![Alt text](polymerization.png)
+
+## Initiator
+- Initiator reacts with a monomer to form an intermediate compound\
+  Initiator + Monomer = Intermediate compound (usually free redicals)
+- This intermediate compound is capable of linking successively with a large number of other monomers into a polymeric compound\
+  Intermediate compound + n Monomer = Polymer
+- Examples: Benzoyl Peroxides, Azobis Isobutyro Nitrile etc. 
+
+## Inhibitors
+- Inhibitors are added to monomer to inhibit auto-polymerization
+- These are capable of inhibiting the chain  growth by combining with the active free-radicals and forming either stable products or inactive free radicals.
+- Examples: Hydroquinone, Nitrobenzene, Dinitrobenzene, Benzothiazine etc
+
+# Copolymer
+- Copolymer = Polymer with 2/+ different monomers
+- Can be formed through all types of polymerization
+  
+## Types
+- Randomg:
+  ```
+  ABBBAABA
+  ```
+- Alternating:
+  ```
+  ABABABAB
+  ```
+- Block:
+  ```
+  AAAABBBAAABBB
+  ```
+- Graft:
+  ```
+        B
+        B
+        B
+  AAAAAAAAAAA
+     B
+     B
+     B
+  ```
+
+  # Plasticizers
+  - low molecular weight
+  - flexibility $\uparrow$ plasticity $\uparrow$
+  - penetrate into polymer matrix $\rightarrow$ spacing between chains $\uparrow$ segmental motion $\uparrow$ $T_g\downarrow$
