@@ -27,7 +27,7 @@
 | Results in the addition of monomers | Monomers are condensed |
 | Polymer's molecular weight is a multiple of  monomer’s molecular weight | Polymer's molecular weight is not a multiple of the monomer’s molecular weight |
 | Lewis acids, Lewis bases, and radical initiators are used as catalysts. | Different molecules are used as catalysts |
-| Examples: Polyethylene, Teflon, and PVC | Examples: Bakelite, Nylon and Silicon |
+| Examples: Polyethylene, Teflon, and PVC | Examples: Bakelite, Nylon and Silicone |
 | ![Example reaction](<Addition polymerization.png>) | ![Example reaction](<Condensation polymerization.png>) |
 
 
@@ -96,46 +96,31 @@ Example: Nylon
 | Polythene, PVC, Nylon | Bakelite |
 
 # Glass Transition Temperature
-```
-↑ Viscofluid state. (Polymer starts to melt and flow) 
-.
-. Flow temperature(T_f)
-.
-.
-↑
-┃
-┃ Viscoelastic state (Soft, flexible and rubbery)
-┃
-┃ Glass Transition Temperature(T_g)
-┃
-┃ Glassy state (Hard, brittle and glassy)
-┃
-```
-
+    ↑[Viscofluid state.Polymer starts 
+    ↑to melt and flow]. Flow temperature(T_f)
+    .
+    .
+    .
+    ↑
+    ┃
+    ┃Rubbery or viscoelastic state.(Soft, flexible and rubbery)
+    ┃
+    ┃Glass Transition Temperature(T_g)
+    ┃
+    ┃Glassy state(Hard, brittle and glassy)
+    ┃
 ## Factors affecting Glass Transition Temperature
-1. **Molecular Weight:**\
-   Molecular Weight (< 20K) $\uparrow$ # of chains $\uparrow$ Segmental motion $\downarrow$ $T_G\uparrow$\
-   ![Alt text](image.png)
-2. **Chain Stiffness**\
-   Stiffness $\uparrow$ Flexibility $\downarrow$ $T_g \uparrow$\
-   ![Alt text](stiffness.png)
-3. **Bulky Pedant Groups:**
-   Bulky Pedant Groups $\uparrow$ Segmental motion $\downarrow$ $T_G\uparrow$\
-   ![Alt text](<bulky pedant groups.png>)
-4. **Flexible Pedant Groups**\
-   Flexible pedant groups $\uparrow$ Proximity of Chains $\uparrow$ Segmental motion $\uparrow$ $T_G\downarrow$\
-   ![Alt text](<flexible pedant groups.png>)
-5. **Intermolecular Forces:**
-   Intermolecular force $\uparrow$ $T_g\uparrow$
-   ![Alt text](<intermolecular force.png>)
-6. Cross linking
-7. Cross linking $\uparrow$ Segmental motion $\downarrow$ $T_g\uparrow$
+**Molecular Weight:**
+T_g α Number of chain end segments α segmental motion
+T_g α Molecular Weight
+![Alt text](image.png)
+
 # Tacticity
+![Alt text](tacticity.png)
 - Pedant group = branch of backbone chain
 - Tacticity is the type of spatial orientation of pedant groups along the backbone chain
 - Physical and chemical properties depend on tacticity
 ## Types
-![Alt text](tacticity.png)
 1. **Isotactic:** All on same side\
    Example: Polypropylene
 2. **Syndiotactic:** Arranged in regular, alternating pattern\
