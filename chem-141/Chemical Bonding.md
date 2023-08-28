@@ -30,5 +30,7 @@ Valence electrons that are involved in bond formation
 ### Non-bonding Electrons
 Valence electrons that are still available for bond formation
 # Ionic Bond
-***AKA*** Electrovalent bond
+## Definition
+Electrostatic attraction force between atoms due to transfer of electrons
+A.k.a. Electrovalent bond
 

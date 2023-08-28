@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21c8b356cd4349e4",
+  "active": "cff001ef5ce32d9e",
   "lastOpenFiles": [
     "chem-141/README.md",
     "chem-141/Chemical Bonding.md",
