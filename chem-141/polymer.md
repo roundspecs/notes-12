@@ -46,32 +46,32 @@
   
 # Classification of Polymer
 ## Origin
-**Natural:** Extacted from nature\
-Example: Cotton, Silk, Wool, Rubber\
-**Synthetic:** Syntesized from monomers\
+**Natural:** Extacted from nature
+Example: Cotton, Silk, Wool, Rubber
+**Synthetic:** Syntesized from monomers
 Example: Polyethylene, PVC, Nylon
 
 ## Carbon chain
-**Organic:** Backbone essentially made of C\
-Example: Almost everything\
-**Iorganic:** No C in backbone\
+**Organic:** Backbone essentially made of C
+Example: Almost everything
+**Iorganic:** No C in backbone
 Example: Glass, Silicone rubber
 
 ## Heating effect
-**Thermoplastic:** Can be melted and molded\
-Example: Polythene, PVC, Nylon\
-**Thermosetting:** Can't be\
+**Thermoplastic:** Can be melted and molded
+Example: Polythene, PVC, Nylon
+**Thermosetting:** Can't be
 Example: Bakelite
 
 ## Backbone
-**Homogeneous:** All same atoms in backbone\
-Example: Polyethylene\
-**Heterogeneous:** Different atoms in backbone\
+**Homogeneous:** All same atoms in backbone
+Example: Polyethylene
+**Heterogeneous:** Different atoms in backbone
 Example: Polyethylene adipate
 
 ## Graphical structure
 **Linear:** Each repeating unit is linked with two repeating units on each side\
-**Branch:** Mostly linear, with occasional branches\
+**Branch:** Mostly linear, with occasional branches
 **Cross-linked:** Branches react and form criss-crossed
 ![schematic representation of graphical structure](<schematic representation of graphical structure.png>)
 
@@ -94,8 +94,8 @@ Example: Nylon
 | soften on heating | does not soften on heating | 
 | can be remolded | can't be |
 | Polythene, PVC, Nylon | Bakelite |
-
 # Glass Transition Temperature
+```
     ↑[Viscofluid state.Polymer starts 
     ↑to melt and flow]. Flow temperature(T_f)
     .
@@ -109,6 +109,7 @@ Example: Nylon
     ┃
     ┃Glassy state(Hard, brittle and glassy)
     ┃
+```
 ## Factors affecting Glass Transition Temperature
 **Molecular Weight:**
 T_g α Number of chain end segments α segmental motion
@@ -149,19 +150,19 @@ T_g α Molecular Weight
   
 ## Types
 - Randomg:
-  ```
+ ```
   ABBBAABA
   ```
 - Alternating:
-  ```
+```
   ABABABAB
   ```
 - Block:
-  ```
+```
   AAAABBBAAABBB
   ```
 - Graft:
-  ```
+```
         B
         B
         B
