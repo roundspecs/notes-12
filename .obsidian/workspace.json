@@ -25,34 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chem-141/Chemical Bonding.md",
+                "file": "chem-141/Rubber.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "633cfbd3c2e33147"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "6ae84396029c99fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "76b898f05fcd583e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chem-141/Chemical Bonding.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "633cfbd3c2e33147"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "747af2ad9cd679be",
@@ -119,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chem-141/Chemical Bonding.md",
+                "file": "chem-141/Rubber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chem-141/Chemical Bonding.md",
+                "file": "chem-141/Rubber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chem-141/Chemical Bonding.md"
+                "file": "chem-141/Rubber.md"
               }
             }
           }
@@ -180,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cff001ef5ce32d9e",
+  "active": "21c8b356cd4349e4",
   "lastOpenFiles": [
-    "chem-141/README.md",
+    "ee-183/ch-51.md",
+    "chem-141/Rubber.md",
+    "ee-183/README.md",
     "chem-141/Chemical Bonding.md",
+    "Pasted image 20230828202840.png",
+    "Pasted image 20230828202654.png",
+    "Pasted image 20230828162244.png",
+    "Pasted image 20230828161940.png",
+    "chem-141/README.md",
     "chem-141/polymer.md",
     "contents/Number Theory.md",
     "Loop through all factors.md",
